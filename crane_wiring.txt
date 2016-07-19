@@ -1,0 +1,9 @@
+Crane wires. 
+VCC- red
+GND - brown
+
+Rotate motor 
+Orange and Yellow
+
+Crane lift motor
+Blue and Green.
